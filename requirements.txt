@@ -170,7 +170,6 @@ psycopg2==2.8.5
 pure-eval==0.2.2
 py==1.11.0
 py-cpuinfo==9.0.0
-py2neo==2021.1.1
 pyahocorasick==1.4.4
 pyarrow==12.0.1
 pyasn1==0.4.8
