@@ -7,7 +7,6 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 argostranslate==1.8.0
 arrow==1.2.3
-aspose-cells-python==23.4.1
 asttokens==2.2.1
 atomicwrites==1.4.1
 autocorrect==2.2.2
