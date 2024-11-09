@@ -128,7 +128,6 @@ monotonic==1.6
 more-itertools==10.0.0
 mpmath==1.3.0
 multiprocessing-logging==0.3.3
-murmurhash==1.0.7
 national-id==1.0.3
 nbclassic==0.5.3
 nbclient==0.7.2
