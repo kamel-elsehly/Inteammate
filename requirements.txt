@@ -160,7 +160,6 @@ plotly==5.9.0
 pluggy==0.13.1
 ply==3.11
 portalocker==2.5.1
-preshed==3.0.6
 probableparsing==0.0.1
 prometheus-client==0.16.0
 prompt-toolkit==3.0.30
