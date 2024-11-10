@@ -3,7 +3,6 @@ annotated-types==0.5.0
 ansi2html==1.8.0
 anyascii==0.3.1
 anyio==3.6.2
-argostranslate==1.8.0
 arrow==1.2.3
 asttokens==2.2.1
 atomicwrites==1.4.1
