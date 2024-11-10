@@ -258,4 +258,3 @@ widgetsnbextension==3.6.6
 win32-setctime==1.1.0
 wincertstore==0.2
 xlrd==2.0.1
-xmltodict==0.12.0
